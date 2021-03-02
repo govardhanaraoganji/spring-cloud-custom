@@ -1,2 +1,1 @@
-# spring-cloud-custom
-spring-cloud-custom
+Added the test & dummy config
