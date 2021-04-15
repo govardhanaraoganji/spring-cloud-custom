@@ -1,3 +1,4 @@
 {
-    "someOtherValue" : "bar"
+  "someOtherValue": "bar",
+  "hello": "test"
 }
