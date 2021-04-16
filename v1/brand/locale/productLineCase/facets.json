@@ -1,4 +1,5 @@
 {
   "someOtherValue": "bar",
-  "hello": "test"
+  "hello": "test",
+  "value": "sample"
 }
